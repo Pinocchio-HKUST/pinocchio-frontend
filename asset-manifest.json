@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/pinocchio-frontend/static/css/main.4a4137e4.chunk.css",
+    "main.js": "/pinocchio-frontend/static/js/main.3353445a.chunk.js",
+    "main.js.map": "/pinocchio-frontend/static/js/main.3353445a.chunk.js.map",
+    "runtime-main.js": "/pinocchio-frontend/static/js/runtime-main.559fa28f.js",
+    "runtime-main.js.map": "/pinocchio-frontend/static/js/runtime-main.559fa28f.js.map",
+    "static/js/2.d5300e7a.chunk.js": "/pinocchio-frontend/static/js/2.d5300e7a.chunk.js",
+    "static/js/2.d5300e7a.chunk.js.map": "/pinocchio-frontend/static/js/2.d5300e7a.chunk.js.map",
+    "static/js/3.6a3ca3f3.chunk.js": "/pinocchio-frontend/static/js/3.6a3ca3f3.chunk.js",
+    "static/js/3.6a3ca3f3.chunk.js.map": "/pinocchio-frontend/static/js/3.6a3ca3f3.chunk.js.map",
+    "index.html": "/pinocchio-frontend/index.html",
+    "service-worker.js": "/pinocchio-frontend/service-worker.js",
+    "service-worker.js.map": "/pinocchio-frontend/service-worker.js.map",
+    "static/css/main.4a4137e4.chunk.css.map": "/pinocchio-frontend/static/css/main.4a4137e4.chunk.css.map",
+    "static/js/2.d5300e7a.chunk.js.LICENSE.txt": "/pinocchio-frontend/static/js/2.d5300e7a.chunk.js.LICENSE.txt",
+    "static/media/fairy.b948b5ed.png": "/pinocchio-frontend/static/media/fairy.b948b5ed.png",
+    "static/media/interestsPageBackground.08ed154e.png": "/pinocchio-frontend/static/media/interestsPageBackground.08ed154e.png",
+    "static/media/landingPageBackground.54b1f97e.png": "/pinocchio-frontend/static/media/landingPageBackground.54b1f97e.png",
+    "static/media/landingPinocchio.6d2ac3f0.png": "/pinocchio-frontend/static/media/landingPinocchio.6d2ac3f0.png",
+    "static/media/loginPageBackground.67aa9382.png": "/pinocchio-frontend/static/media/loginPageBackground.67aa9382.png",
+    "static/media/signUpPageBackground.bfa68024.png": "/pinocchio-frontend/static/media/signUpPageBackground.bfa68024.png",
+    "static/media/whaleIcon.85ffa900.png": "/pinocchio-frontend/static/media/whaleIcon.85ffa900.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.559fa28f.js",
+    "static/js/2.d5300e7a.chunk.js",
+    "static/css/main.4a4137e4.chunk.css",
+    "static/js/main.3353445a.chunk.js"
+  ]
+}
