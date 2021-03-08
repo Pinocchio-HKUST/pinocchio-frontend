@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/pinocchio-frontend/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/pinocchio-frontend/static/js/main.65997505.chunk.js",
-    "main.js.map": "/pinocchio-frontend/static/js/main.65997505.chunk.js.map",
-    "runtime-main.js": "/pinocchio-frontend/static/js/runtime-main.09b7a132.js",
-    "runtime-main.js.map": "/pinocchio-frontend/static/js/runtime-main.09b7a132.js.map",
-    "static/js/2.b4bb556c.chunk.js": "/pinocchio-frontend/static/js/2.b4bb556c.chunk.js",
-    "static/js/2.b4bb556c.chunk.js.map": "/pinocchio-frontend/static/js/2.b4bb556c.chunk.js.map",
-    "static/js/3.9fa328e4.chunk.js": "/pinocchio-frontend/static/js/3.9fa328e4.chunk.js",
-    "static/js/3.9fa328e4.chunk.js.map": "/pinocchio-frontend/static/js/3.9fa328e4.chunk.js.map",
+    "main.js": "/pinocchio-frontend/static/js/main.4fae3e6c.chunk.js",
+    "main.js.map": "/pinocchio-frontend/static/js/main.4fae3e6c.chunk.js.map",
+    "runtime-main.js": "/pinocchio-frontend/static/js/runtime-main.f04d91d9.js",
+    "runtime-main.js.map": "/pinocchio-frontend/static/js/runtime-main.f04d91d9.js.map",
+    "static/js/2.13b2f292.chunk.js": "/pinocchio-frontend/static/js/2.13b2f292.chunk.js",
+    "static/js/2.13b2f292.chunk.js.map": "/pinocchio-frontend/static/js/2.13b2f292.chunk.js.map",
+    "static/js/3.961bae97.chunk.js": "/pinocchio-frontend/static/js/3.961bae97.chunk.js",
+    "static/js/3.961bae97.chunk.js.map": "/pinocchio-frontend/static/js/3.961bae97.chunk.js.map",
     "index.html": "/pinocchio-frontend/index.html",
     "service-worker.js": "/pinocchio-frontend/service-worker.js",
     "service-worker.js.map": "/pinocchio-frontend/service-worker.js.map",
     "static/css/main.4a4137e4.chunk.css.map": "/pinocchio-frontend/static/css/main.4a4137e4.chunk.css.map",
-    "static/js/2.b4bb556c.chunk.js.LICENSE.txt": "/pinocchio-frontend/static/js/2.b4bb556c.chunk.js.LICENSE.txt",
+    "static/js/2.13b2f292.chunk.js.LICENSE.txt": "/pinocchio-frontend/static/js/2.13b2f292.chunk.js.LICENSE.txt",
     "static/media/fairy.b948b5ed.png": "/pinocchio-frontend/static/media/fairy.b948b5ed.png",
     "static/media/interestsPageBackground.08ed154e.png": "/pinocchio-frontend/static/media/interestsPageBackground.08ed154e.png",
     "static/media/landingMobileBg.2de07a1a.png": "/pinocchio-frontend/static/media/landingMobileBg.2de07a1a.png",
@@ -26,9 +26,9 @@
     "static/media/whaleIcon.85ffa900.png": "/pinocchio-frontend/static/media/whaleIcon.85ffa900.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.09b7a132.js",
-    "static/js/2.b4bb556c.chunk.js",
+    "static/js/runtime-main.f04d91d9.js",
+    "static/js/2.13b2f292.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.65997505.chunk.js"
+    "static/js/main.4fae3e6c.chunk.js"
   ]
 }
