@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pinocchio-frontend/static/css/main.4a4137e4.chunk.css",
-    "main.js": "/pinocchio-frontend/static/js/main.1d397fa2.chunk.js",
-    "main.js.map": "/pinocchio-frontend/static/js/main.1d397fa2.chunk.js.map",
+    "main.js": "/pinocchio-frontend/static/js/main.aaa11b97.chunk.js",
+    "main.js.map": "/pinocchio-frontend/static/js/main.aaa11b97.chunk.js.map",
     "runtime-main.js": "/pinocchio-frontend/static/js/runtime-main.f04d91d9.js",
     "runtime-main.js.map": "/pinocchio-frontend/static/js/runtime-main.f04d91d9.js.map",
     "static/js/2.13b2f292.chunk.js": "/pinocchio-frontend/static/js/2.13b2f292.chunk.js",
@@ -29,6 +29,6 @@
     "static/js/runtime-main.f04d91d9.js",
     "static/js/2.13b2f292.chunk.js",
     "static/css/main.4a4137e4.chunk.css",
-    "static/js/main.1d397fa2.chunk.js"
+    "static/js/main.aaa11b97.chunk.js"
   ]
 }
